@@ -1,4 +1,4 @@
-<h2>Google 2002 main page</h2>
+<h2>Google 2002 Main Page</h2>
 
 <ul>
 
